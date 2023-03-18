@@ -2,7 +2,7 @@
 
 <p align="center">
 
-   <img src="AirBnB clone.jpg" width="400\"/>
+   <img src="AirBnB clone.jpg" width="600\"/>
 
    <br>
 

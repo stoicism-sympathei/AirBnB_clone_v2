@@ -141,6 +141,5 @@ No known bugs at this time.
 Moges Amane - [Github](https://github.com/stoicism-sympathei) / [Email](mogesanonymous@gmail.com)
 Francis Awoh - [Github](https://github.com/Francis-7) / [Email](realmabove02@gmail.com)
 
-Second part of Airbnb: Moges Amane & Mustapha Oyebamiji
 ## License
 Public Domain. No copy write protection. 
